@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Amberial UE Remake\\Amberial\\Source\\Amberial\\Amberial.Build.cs",
+		"D:\\Unreal Projects\\Amberial UE Remake\\Amberial\\Source\\Amberial.Target.cs",
+		"D:\\Unreal Projects\\Amberial UE Remake\\Amberial\\Source\\AmberialEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

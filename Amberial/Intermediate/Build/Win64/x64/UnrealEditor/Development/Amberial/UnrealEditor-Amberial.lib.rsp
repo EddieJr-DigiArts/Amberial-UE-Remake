@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Amberial.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Unreal Projects/Amberial UE Remake/Amberial/Intermediate/Build/Win64/x64/AmberialEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/Unreal Projects/Amberial UE Remake/Amberial/Intermediate/Build/Win64/x64/UnrealEditor/Development/Amberial/Amberial.cpp.obj"
+"D:/Unreal Projects/Amberial UE Remake/Amberial/Intermediate/Build/Win64/x64/UnrealEditor/Development/Amberial/PerModuleInline.gen.cpp.obj"
+"D:/Unreal Projects/Amberial UE Remake/Amberial/Intermediate/Build/Win64/x64/UnrealEditor/Development/Amberial/Default.rc2.res"
+/OUT:"D:/Unreal Projects/Amberial UE Remake/Amberial/Intermediate/Build/Win64/x64/UnrealEditor/Development/Amberial/UnrealEditor-Amberial.lib"
