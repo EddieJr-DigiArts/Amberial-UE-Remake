@@ -1,0 +1,12 @@
+Medal Sizes
+Level 1, 2, 3 ,4 ,5, 7, 8 ,9 ,10, 11
+Pass 112x95 Ace 75x90
+
+Level 6
+Pass 128x108 Ace 85x100
+
+Level 12
+Pass 148x125 Ace 100x119
+
+Ace Levels
+Pass 79x67 Ace 54x64
