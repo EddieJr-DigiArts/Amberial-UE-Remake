@@ -5,11 +5,10 @@ using System.Collections.Generic;
 
 public class AmberialTarget : TargetRules
 {
-	public AmberialTarget(TargetInfo Target) : base(Target)
+	public AmberialTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V5;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_6;
-		ExtraModuleNames.Add("Amberial");
+		DefaultBuildSettings = BuildSettingsVersion.V2;
+		ExtraModuleNames.AddRange( new string[] { "Amberial" } );
 	}
 }

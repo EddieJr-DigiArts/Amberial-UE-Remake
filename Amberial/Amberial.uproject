@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.6",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -12,20 +12,23 @@
 	],
 	"Plugins": [
 		{
-			"Name": "CommonUI",
-			"Enabled": true
+			"Name": "EnvironmentQueryEditor",
+			"Enabled": false
 		},
 		{
-			"Name": "UMGToSlateLoadingScreen",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/77426086a9304eb59a8469cfa3a1bdad"
+			"Name": "AISupport",
+			"Enabled": false
 		},
 		{
-			"Name": "AndroidMedia",
+			"Name": "AlembicImporter",
 			"Enabled": false
 		},
 		{
 			"Name": "AndroidDeviceProfileSelector",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
 			"Enabled": false
 		},
 		{
@@ -44,26 +47,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AndroidFileServer",
-			"Enabled": false
-		},
-		{
-			"Name": "GooglePAD",
-			"Enabled": false
-		},
-		{
-			"Name": "LocationServicesBPLibrary",
-			"Enabled": false
-		},
-		{
-			"Name": "MobilePatchingUtils",
-			"Enabled": false
-		},
-		{
-			"Name": "MobileLauncherProfileWizard",
-			"Enabled": false
-		},
-		{
 			"Name": "AppleImageUtils",
 			"Enabled": false
 		},
@@ -72,79 +55,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AvfMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "GoogleCloudMessaging",
-			"Enabled": false
-		},
-		{
-			"Name": "ResonanceAudio",
-			"Enabled": false
-		},
-		{
-			"Name": "N10XSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "AlembicImporter",
-			"Enabled": false
-		},
-		{
 			"Name": "ArchVisCharacter",
 			"Enabled": false
 		},
 		{
-			"Name": "AudioInsights",
-			"Enabled": true
-		},
-		{
-			"Name": "Bridge",
-			"Enabled": false
-		},
-		{
-			"Name": "CableComponent",
-			"Enabled": false
-		},
-		{
-			"Name": "Cascade",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosCloth",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosInsights",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosNiagara",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosSolverPlugin",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosVD",
-			"Enabled": false
-		},
-		{
-			"Name": "Dataflow",
-			"Enabled": false
-		},
-		{
-			"Name": "MetaHumanSDK",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosUserDataPT",
+			"Name": "AvfMedia",
 			"Enabled": false
 		},
 		{
@@ -156,35 +71,42 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ControlRigModules",
-			"Enabled": false
-		},
-		{
-			"Name": "ControlRigSpline",
-			"Enabled": false
-		},
-		{
-			"Name": "IKRig",
-			"Enabled": false
-		},
-		{
-			"Name": "SequencerAnimTools",
-			"Enabled": false
-		},
-		{
-			"Name": "ControlRig",
-			"Enabled": false
-		},
-		{
-			"Name": "AudioModulation",
-			"Enabled": true
-		},
-		{
 			"Name": "CryptoKeys",
 			"Enabled": false
 		},
 		{
-			"Name": "FacialAnimation",
+			"Name": "GooglePAD",
+			"Enabled": false
+		},
+		{
+			"Name": "BackChannel",
+			"Enabled": false
+		},
+		{
+			"Name": "MagicLeap",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin",
+				"Mac",
+				"Win64"
+			]
+		},
+		{
+			"Name": "MagicLeapMedia",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin"
+			]
+		},
+		{
+			"Name": "LuminPlatformFeatures",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Lumin"
+			]
+		},
+		{
+			"Name": "MLSDK",
 			"Enabled": false
 		},
 		{
@@ -192,11 +114,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GLTFExporter",
+			"Name": "GoogleCloudMessaging",
 			"Enabled": false
 		},
 		{
-			"Name": "LinuxDeviceProfileSelector",
+			"Name": "IOSDeviceProfileSelector",
 			"Enabled": false
 		},
 		{
@@ -204,38 +126,29 @@
 			"Enabled": false
 		},
 		{
-			"Name": "MacGraphicsSwitching",
-			"Enabled": false
-		},
-		{
-			"Name": "IoStoreInsights",
-			"Enabled": false
-		},
-		{
-			"Name": "OnlineSubsystemIOS",
+			"Name": "MagicLeapPassableWorld",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
-				"IOS",
-				"TVOS"
+				"Lumin",
+				"Mac",
+				"Win64"
 			]
 		},
 		{
-			"Name": "IOSDeviceProfileSelector",
+			"Name": "LocationServicesBPLibrary",
 			"Enabled": false
 		},
 		{
-			"Name": "WmfMedia",
+			"Name": "MobilePatchingUtils",
 			"Enabled": false
 		},
 		{
-			"Name": "WindowsMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "PixWinPlugin",
+			"Name": "OculusVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win32",
+				"Win64",
+				"Android"
 			]
 		},
 		{
@@ -247,35 +160,56 @@
 			"Enabled": false
 		},
 		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
 			"Name": "OnlineSubsystem",
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineBase",
-			"Enabled": false
+			"Name": "OpenXREyeTracker",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"HoloLens",
+				"Android"
+			]
+		},
+		{
+			"Name": "OpenXRHandTracking",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"HoloLens",
+				"Android"
+			]
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux",
+				"Android",
+				"HoloLens"
+			]
 		},
 		{
 			"Name": "PerforceSourceControl",
 			"Enabled": false
 		},
 		{
-			"Name": "CameraShakePreviewer",
-			"Enabled": false
-		},
-		{
-			"Name": "GameplayCameras",
-			"Enabled": false
-		},
-		{
-			"Name": "ProceduralMeshComponent",
-			"Enabled": false
-		},
-		{
-			"Name": "RenderDocPlugin",
-			"Enabled": false
-		},
-		{
-			"Name": "SoundFields",
+			"Name": "PhysXVehicles",
 			"Enabled": false
 		},
 		{
@@ -283,21 +217,17 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SubversionSourceControl",
-			"Enabled": false
-		},
-		{
-			"Name": "SkeletalMeshModelingTools",
-			"Enabled": false
-		},
-		{
-			"Name": "NNEDenoiser",
+			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
+				"Win32",
 				"Win64",
-				"Linux",
-				"Mac"
+				"Linux"
 			]
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
 		},
 		{
 			"Name": "AutoSizeComments",
@@ -308,9 +238,19 @@
 			"Name": "GraphPrinter",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/466303b6cd724968b3ee0a1a1b623f4b"
+		},
+		{
+			"Name": "EasyLoadingScreen",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/529e5fa4-3311-461c-a0f0-b5cf7b6b451c"
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"Windows"
+		"AllDesktop",
+		"WindowsNoEditor"
 	]
 }
