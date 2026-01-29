@@ -8,54 +8,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="078cbbe0-4f16-40aa-9dee-9256c85d0172" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/.idea/.idea.Amberial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/.idea/.idea.Amberial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Build/Windows/FileOpenOrder/CookerOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Build/Windows/FileOpenOrder/CookerOpenOrder.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Build/Windows/FileOpenOrder/EditorOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Build/Windows/FileOpenOrder/EditorOpenOrder.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Maps/L1_Movement101.umap" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Content/Maps/L1_Movement101.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Maps/L_LevelSelect.umap" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Content/Maps/L_LevelSelect.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Sprites/T_Ace.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Sprites/T_AmberBall.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Sprites/T_AmberExit.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Sprites/T_Trail.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/MI_ArmorGamesShine.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/MI_Shield_Mat.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/M_ArmorGamesShine.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/M_ShieldShine.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/M_Shield_Mat.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_ArmorGames.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_ArmorGamesShine.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_ArmorGamesSite.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_Intro_Border.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_Shield.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_ShieldShine.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_Sword.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/Mats/T_SwordShine.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/WBP_ArmorSplash.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Content/Widgets/ArmorGamesSplashIntro/WBP_ArmorSplash.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/LevelSelect/Materials/T_Rocks.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Content/Widgets/LevelSelect/Materials/T_Rocks.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/LevelSelect/WBP_LevelSelect.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Content/Widgets/LevelSelect/WBP_LevelSelect.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/LoadingScreen/WBP_AmberialLoadingScreen.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Content/Widgets/LoadingScreen/WBP_AmberialLoadingScreen.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Amberial/Content/Widgets/MainMenu/WBP_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Amberial/Content/Widgets/MainMenu/WBP_MainMenu.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Level Select/Backup_of_Stage Selection.cdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Level Select/Stage Selection.cdr" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Level Select/Stage Selection.cdr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Level Select/T_Return.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Level Select/T_ReturnHover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Level Select/T_Rocks.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Level Select/T_Rocks.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Main Menu/Backup_of_Main Menu.cdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Main Menu/Main Menu.cdr" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Main Menu/Main Menu.cdr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Main Sprites/T_Ace.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Main Sprites/T_AmberBall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Main Sprites/T_AmberExit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Assets/Main Sprites/T_Trail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Amberial/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Amberial/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Amberial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Amberial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amberial.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Amberial.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log" beforeDir="false" afterPath="$PROJECT_DIR$/Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/L1_Movement101.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/L1_Movement101.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -77,20 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ Project.Amberial.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Amberial" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -105,6 +77,18 @@
         <option name="TERMINAL_INTERACTION_BEHAVIOR" value="AUTO_DETECT" />
         <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/Amberial.vcxproj" />
       </configuration_1>
+      <configuration_2 setup="1">
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="x64" />
+        <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+        <option name="TERMINAL_INTERACTION_BEHAVIOR" value="AUTO_DETECT" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/Amberial.vcxproj" />
+      </configuration_2>
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/Amberial.vcxproj" />
       <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/Amberial.vcxproj" />
       <option name="AUTO_SELECT_PRIORITY" value="10010" />
@@ -122,6 +106,7 @@
       <updated>1761873217458</updated>
       <workItem from="1761873219493" duration="321000" />
       <workItem from="1761929814653" duration="803000" />
+      <workItem from="1765283737682" duration="811000" />
     </task>
     <servers />
   </component>
